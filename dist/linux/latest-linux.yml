@@ -1,0 +1,9 @@
+version: 1.0.0
+files:
+  - url: ubimark_desktop-1.0.0-x86_64.AppImage
+    sha512: 9pZJRIsFhgukvW9ph2yNtvzNXRWGIFJL7qDrl12UF5SyixNTBwmKpmVcPLzwunGegZEtcsLenbnvvVu5eUX6UA==
+    size: 47909304
+    blockMapSize: 49916
+path: ubimark_desktop-1.0.0-x86_64.AppImage
+sha512: 9pZJRIsFhgukvW9ph2yNtvzNXRWGIFJL7qDrl12UF5SyixNTBwmKpmVcPLzwunGegZEtcsLenbnvvVu5eUX6UA==
+releaseDate: '2018-04-12T04:45:04.035Z'

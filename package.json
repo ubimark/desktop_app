@@ -1,0 +1,39 @@
+{
+  "name": "ubimark_desktop",
+  "version": "1.0.0",
+  "description": "Versión de escritorio",
+  "main": "app.js",
+  "build" : {
+    "appId":"com.ubimark.ubimark",
+    "productName":"Ubimark",
+    "icon":"build/ubi-icon_256x256.png",
+    "asarUnpack": [
+      "vendor/ffmpeg"
+   ]
+  },
+  "scripts": {
+    "start": "electron .",
+    "pack" : "build --dir",
+    "build" : "build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrLuis95/desktop_app.git"
+  },
+  "keywords": [
+    "ubimark"
+  ],
+  "author": "Luis Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrLuis95/desktop_app/issues"
+  },
+  "homepage": "https://github.com/MrLuis95/desktop_app#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "electron-builder": "^20.8.1",
+    "electron": "^1.8.4"
+  }
+}

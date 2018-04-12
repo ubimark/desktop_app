@@ -1,0 +1,9 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.ubimark.ubimark
+productName: Ubimark
+icon: build/ubi-icon_256x256.png
+asarUnpack:
+  - vendor/ffmpeg
+electronVersion: 1.8.4
