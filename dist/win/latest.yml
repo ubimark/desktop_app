@@ -1,0 +1,9 @@
+version: 1.0.0
+files:
+  - url: ubimark_desktop-setup-1.0.0.exe
+    sha512: TE7gDZByZ1Ml8cTyQLiX6U2+OQmzMoXWKjpcV8UaFvgAG8auBVUjO/rkTew1mNFJ8U1W7UK3whOILPc0dP0fFQ==
+    size: 35358895
+path: ubimark_desktop-setup-1.0.0.exe
+sha512: TE7gDZByZ1Ml8cTyQLiX6U2+OQmzMoXWKjpcV8UaFvgAG8auBVUjO/rkTew1mNFJ8U1W7UK3whOILPc0dP0fFQ==
+sha2: 9f6d998d41b6d8e8ba9f5ba169ca2c13ff296485b928bd1ca3e80a6d351b94ad
+releaseDate: '2018-04-12T04:37:52.582Z'
